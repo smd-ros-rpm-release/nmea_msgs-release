@@ -1,0 +1,8 @@
+ros-hydro-nmea-msgs (0.1.0-0raring) raring; urgency=high
+
+  * Initial version (released into Hydro)
+  * Supports NMEA0183 sentences
+
+ -- Eric Perko <eric@ericperko.com>  Sun, 21 Jul 2013 04:00:00 -0000
+
+
