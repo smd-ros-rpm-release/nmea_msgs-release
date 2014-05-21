@@ -1,0 +1,12 @@
+Source: ros-indigo-nmea-msgs
+Section: misc
+Priority: extra
+Maintainer: Eric Perko <eric@ericperko.com>
+Build-Depends: debhelper (>= 9.0.0), ros-indigo-catkin, ros-indigo-message-generation, ros-indigo-std-msgs
+Homepage: http://ros.org/wiki/nmea_msgs
+Standards-Version: 3.9.2
+
+Package: ros-indigo-nmea-msgs
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-indigo-message-runtime, ros-indigo-std-msgs
+Description: The nmea_msgs package contains messages related to data in the NMEA format.
