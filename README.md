@@ -1,3 +1,22 @@
+## nmea_msgs (hydro) - 0.1.0-1
+
+The packages in the `nmea_msgs` repository were released into the `hydro` distro by running `/usr/bin/bloom-release nmea_msgs -t hydro -r hydro` on `Wed, 21 May 2014 05:32:04 -0000`
+
+The `nmea_msgs` package was released.
+
+Version of package(s) in repository `nmea_msgs`:
+- rosdistro version: `0.1.0-0`
+- old version: `0.1.0-0`
+- new version: `0.1.0-1`
+
+Versions of tools used:
+- bloom version: `0.5.8`
+- catkin_pkg version: `0.2.2`
+- rosdep version: `0.10.27`
+- rosdistro version: `0.3.5`
+- vcstools version: `0.1.35`
+
+
 ## nmea_msgs (indigo) - 0.1.0-1
 
 The packages in the `nmea_msgs` repository were released into the `indigo` distro by running `/usr/bin/bloom-release nmea_msgs -t indigo -r indigo` on `Wed, 21 May 2014 05:29:16 -0000`
